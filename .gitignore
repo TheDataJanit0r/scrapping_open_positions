@@ -1,0 +1,17 @@
+Archiv/
+.env
+crawlers/__pycache__/
+
+last_info.data
+test_2.py
+tester_script.py
+
+~$current_list_dkb.xlsx
+
+.vscode/settings.json
+env/
+
+Logs/
+>>>>>>> a0556fe505b1b4a7015cd7048cfbcd13ad1a98ef
+__pycache__/
+crawlers/logger.py
